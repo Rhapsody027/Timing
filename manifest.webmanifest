@@ -1,1 +1,1 @@
-{"name":"Timing","short_name":"Timing","start_url":".","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/Timing/","theme_color":"#000000","icons":[{"src":"/public/pwa.png","sizes":"1024x1024","type":"image/png"}]}
+{"name":"Timing","short_name":"Timing","start_url":".","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/Timing/","theme_color":"#000000","icons":[{"src":"/pwa.png","sizes":"1024x1024","type":"image/png"}]}
