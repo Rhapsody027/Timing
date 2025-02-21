@@ -15,7 +15,13 @@ export default defineConfig({
         short_name: "Timing",
         start_url: ".",
         display: "standalone",
-        icons: [],
+        icons: [
+          {
+            src: "public/pwa.png",
+            sizes: "1024x1024",
+            type: "image/png",
+          },
+        ],
       },
     }),
   ],
