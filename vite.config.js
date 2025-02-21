@@ -15,9 +15,11 @@ export default defineConfig({
         short_name: "Timing",
         start_url: ".",
         display: "standalone",
+        theme_color: "#000000",
+
         icons: [
           {
-            src: "public/pwa.png",
+            src: "/public/pwa.png",
             sizes: "1024x1024",
             type: "image/png",
           },
